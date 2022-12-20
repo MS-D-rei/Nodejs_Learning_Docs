@@ -1,0 +1,8 @@
+# node modules
+/node_modules
+
+# tsc directory
+/dist
+
+# trial file
+playground.js
